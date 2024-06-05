@@ -3,7 +3,7 @@ body{
 	background-color: white;
 	background-image: url(logo.png);
 	background-size: 70px 70px;
-	background-repeat: repeat-y;
+	background-repeat: repeat-y; /* repeatは縦方向に繰り返す */
 	
 	padding-left: 70px;
 }
